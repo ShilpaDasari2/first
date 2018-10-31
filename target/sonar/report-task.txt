@@ -1,0 +1,7 @@
+organization=hariprasad123-bitbucket
+projectKey=Hariprasad123_santosh
+serverUrl=https://sonarcloud.io
+serverVersion=7.4.0.18669
+dashboardUrl=https://sonarcloud.io/dashboard?id=Hariprasad123_santosh
+ceTaskId=AWbKZ5iPpAwoMVoOEtB2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWbKZ5iPpAwoMVoOEtB2
